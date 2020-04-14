@@ -1,3 +1,9 @@
 # cs-fundamentals-git
 
-# WOAH THIS CHANGED A LOT OF THINGS!!!
+This is a oneleif project etc.
+
+Leif made a commit here :D
+
+## This is [NEW](https://dev.oneleif.com)
+
+# oneleif
